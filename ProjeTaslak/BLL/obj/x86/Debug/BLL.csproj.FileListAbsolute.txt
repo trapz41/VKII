@@ -1,0 +1,10 @@
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\bin\x86\Debug\BLL.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\bin\x86\Debug\BLL.pdb
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\bin\x86\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\bin\x86\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\bin\x86\Debug\Microsoft.Analytics.Types.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\obj\x86\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\obj\x86\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\obj\x86\Debug\BLL.csproj.CopyComplete
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\obj\x86\Debug\BLL.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\BLL\obj\x86\Debug\BLL.pdb

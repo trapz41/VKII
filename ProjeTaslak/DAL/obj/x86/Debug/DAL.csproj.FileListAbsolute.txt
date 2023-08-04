@@ -1,0 +1,14 @@
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\DAL.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\DAL.pdb
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\BLL.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\EntityLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\Microsoft.Analytics.Types.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\BLL.pdb
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\bin\x86\Debug\EntityLayer.pdb
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\obj\x86\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\obj\x86\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\obj\x86\Debug\DAL.csproj.CopyComplete
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\obj\x86\Debug\DAL.dll
+C:\Users\emirh\OneDrive\Masaüstü\UğraşDur\ProjeTaslak\DAL\obj\x86\Debug\DAL.pdb
